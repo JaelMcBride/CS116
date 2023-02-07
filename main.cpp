@@ -13,13 +13,13 @@ int main()
 {
     string uName;
 
-    cout << "Hello World!\nAnd most importantly\nHELLO CS 216!!!\n";
+    cout << "Hello World!\n\nAnd most importantly\n\nHELLO CS 216!!!\n\n";
 
-    cout << "Please enter your first and last name fellow human\n";
+    cout << "Please enter your first and last name fellow human\n\n";
 
     getline(cin, uName);
 
-    cout << "Well Hello " << uName << '!' << endl;
+    cout << "\nWell Hello " << uName << '!' << endl;
 }
 
 /*********************************************
